@@ -3,4 +3,4 @@ A place to store miscellaneous, useful R code. Provide a brief description of th
 
 * ManhattanPlot.R: A function to make Manhattan Plots. This was modified from Stephen Turner's function. Y-axis is the -log10 p value.
 
-* ManhattanPlot.R: A function to make Manhattan Plots that show the absolute value of SNP effects. This was modified from the code above. Y-axis is the |Beta|.
+* ManhattanBeta.R: A function to make Manhattan Plots that show the absolute value of SNP effects. This was modified from the code above. Y-axis is the |Beta|.
